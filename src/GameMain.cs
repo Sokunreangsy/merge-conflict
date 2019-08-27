@@ -19,7 +19,7 @@ namespace MyGame
                 
                 //Clear the screen and draw the framerate
                 SwinGame.ClearScreen(Color.White);
-                SwinGame.FillCircle(Color.Blue,300,200,100);
+                SwinGame.FillCircle(Color.Blue,300,300,300);
                 SwinGame.DrawFramerate(0,0);
                 
                 //Draw onto the screen
